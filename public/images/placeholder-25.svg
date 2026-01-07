@@ -1,0 +1,7 @@
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#E6EEF2"/>
+  <path d="M0 420C120 360 220 360 320 410C420 460 520 500 620 460C720 420 800 360 800 360V600H0V420Z" fill="#C76B4E" opacity="0.25"/>
+  <path d="M0 360C140 300 260 300 360 350C460 400 560 440 660 410C760 380 800 320 800 320V600H0V360Z" fill="#355E3B" opacity="0.35"/>
+  <text x="50%" y="50%" text-anchor="middle" fill="#0F172A" font-family="Arial, sans-serif" font-size="28">Walk in Himalayas</text>
+  <text x="50%" y="56%" text-anchor="middle" fill="#5B3A29" font-family="Arial, sans-serif" font-size="16">Replace with real trek photo</text>
+</svg>

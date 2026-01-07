@@ -1,0 +1,8 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#F8F6F2"/>
+  <path d="M0 420C200 340 360 340 520 400C680 460 840 520 1000 470C1120 430 1200 360 1200 360V630H0V420Z" fill="#355E3B" opacity="0.25"/>
+  <path d="M0 360C220 300 420 300 580 360C740 420 900 470 1040 430C1140 400 1200 340 1200 340V630H0V360Z" fill="#C76B4E" opacity="0.25"/>
+  <text x="80" y="260" fill="#0F172A" font-family="Arial, sans-serif" font-size="56">Walk in Himalayas</text>
+  <text x="80" y="330" fill="#355E3B" font-family="Arial, sans-serif" font-size="28">Guided treks & authentic Himalayan adventures</text>
+  <text x="80" y="380" fill="#5B3A29" font-family="Arial, sans-serif" font-size="20">Chamba • Dalhousie • Dharamshala • Manali</text>
+</svg>

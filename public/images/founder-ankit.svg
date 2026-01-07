@@ -1,0 +1,8 @@
+<svg width="800" height="900" viewBox="0 0 800 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="900" fill="#E6EEF2"/>
+  <circle cx="400" cy="280" r="120" fill="#C76B4E" opacity="0.4"/>
+  <rect x="220" y="420" width="360" height="340" rx="36" fill="#355E3B" opacity="0.3"/>
+  <text x="50%" y="48%" text-anchor="middle" fill="#0F172A" font-family="Arial, sans-serif" font-size="28">Ankit</text>
+  <text x="50%" y="54%" text-anchor="middle" fill="#5B3A29" font-family="Arial, sans-serif" font-size="16">Founder • BMC-certified guide</text>
+  <text x="50%" y="62%" text-anchor="middle" fill="#5B3A29" font-family="Arial, sans-serif" font-size="14">Replace with real portrait</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg width="900" height="700" viewBox="0 0 900 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="700" fill="#E6EEF2"/>
+  <path d="M120 560L320 260L520 560H120Z" fill="#355E3B"/>
+  <path d="M380 560L540 320L760 560H380Z" fill="#0F3D2E"/>
+  <path d="M290 380L320 260L360 380H290Z" fill="#F4B183"/>
+  <path d="M510 420L540 320L580 420H510Z" fill="#F4B183"/>
+  <circle cx="720" cy="160" r="60" fill="#F4B183" opacity="0.7"/>
+  <text x="50%" y="90%" text-anchor="middle" fill="#0F172A" font-family="Arial, sans-serif" font-size="28">Walk in Himalayas</text>
+</svg>
